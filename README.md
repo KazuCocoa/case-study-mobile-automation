@@ -11,6 +11,8 @@ for my :memo:
     - https://github.com/mozilla-mobile/firefox-ios/wiki/Automated-UI-Tests
 - EarlGrey
     - https://github.com/google/EarlGrey
+- https://jakubturek.com/automated-ui-tests-in-ios-apps/
+    - https://github.com/elpassion/EarlGreySnapshots
 
 ## Entire
 - Cookpad
